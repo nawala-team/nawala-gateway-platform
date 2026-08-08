@@ -29,6 +29,18 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/nawala-team/nawala-gateway-platform/releases/latest">
+    <img src="https://img.shields.io/github/v/release/nawala-team/nawala-gateway-platform?style=flat-square&color=success" alt="Latest Release"/>
+  </a>
+  <a href="https://github.com/nawala-team/nawala-gateway-platform/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/nawala-team/nawala-gateway-platform/maven.yml?style=flat-square" alt="Build Status"/>
+  </a>
+  <a href="https://github.com/nawala-team/nawala-gateway-platform/stargazers">
+    <img src="https://img.shields.io/github/stars/nawala-team/nawala-gateway-platform?style=flat-square" alt="Stars"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://saweria.co/rdpf">
     <img src="https://img.shields.io/badge/%E2%98%95%20Support%20This%20Project-Donate%20via%20Saweria-orange?style=for-the-badge" alt="Donate"/>
   </a>
@@ -137,7 +149,7 @@ Unlike cloud-only solutions (AWS API Gateway, Apigee, Kong Enterprise), Nawala r
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/dansiapa/nawala-gateway-platform.git
+git clone https://github.com/nawala-team/nawala-gateway-platform.git
 cd nawala-gateway-platform
 
 # 2. Create MySQL database
