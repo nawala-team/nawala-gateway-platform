@@ -37,7 +37,7 @@
   <text x="300" y="200" font-size="14" fill="#aaa">Enterprise API Gateway and Management Platform</text>
   <text x="300" y="225" font-size="12" fill="#666">WAF | OAuth2 | Rate Limiting | Anomaly Detection | E2E Encryption</text>
   <rect x="300" y="245" width="55" height="22" rx="11" fill="url(#accent)"/>
-  <text x="327" y="260" text-anchor="middle" font-size="10" fill="white" font-weight="bold">v1.0.0</text>
+  <text x="327" y="260" text-anchor="middle" font-size="10" fill="white" font-weight="bold">v2.0.1</text>
   <rect x="365" y="245" width="65" height="22" rx="11" fill="#2d3436"/>
   <text x="397" y="260" text-anchor="middle" font-size="9" fill="#4ECDC4">Java 17</text>
   <rect x="440" y="245" width="90" height="22" rx="11" fill="#2d3436"/>
