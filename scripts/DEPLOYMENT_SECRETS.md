@@ -43,9 +43,9 @@
 # This branch should be restricted:
 #   - GitHub → Settings → Branches → Add rule
 #   - Branch name pattern: deploy/production
-#   - ☑ Restrict who can push (only you)
-#   - ☑ Do not allow deletions
-#   - ☑ Lock branch (no direct pushes except admin)
+#   - [x] Restrict who can push (only you)
+#   - [x] Do not allow deletions
+#   - [x] Lock branch (no direct pushes except admin)
 #
 # The branch contains NO secrets — all credentials are in
 # GitHub Secrets, injected at runtime only.

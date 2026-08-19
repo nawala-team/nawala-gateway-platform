@@ -37,7 +37,7 @@ docker-compose up -d
 - **Username:** admin
 - **Password:** admin123
 
-> ⚠️ Change the default password immediately after first login!
+> [!]️ Change the default password immediately after first login!
 
 ## First-Time Setup Wizard
 

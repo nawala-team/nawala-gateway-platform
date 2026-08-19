@@ -1,6 +1,6 @@
 # Contributing to Nawala
 
-Thank you for your interest in contributing to Nawala! 🎉
+Thank you for your interest in contributing to Nawala!
 
 ## How to Contribute
 
